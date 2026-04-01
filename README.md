@@ -417,7 +417,7 @@ interface PluginHooks {
 
 ```bash
 # 1. 克隆项目
-cd /home/wwk/workspace/ai_project/CC-main
+cd ~/CC-main
 
 # 2. 安装依赖
 bun install
